@@ -1,0 +1,64 @@
+#shippingBanner {
+    background-color: #e7e7e7;
+    height: 80px;
+}
+
+#shippingMessage {
+  font-size: 15px;
+  font-family: "Avenir", sans-serif;
+  font-weight: 300;
+  letter-spacing: 0.2em;
+}
+
+.topMenu {
+    padding-top: 35px;
+    padding-bottom: 5px;
+    font-size: 16.5px; 
+    font-family: "Avenir", sans-serif;
+    font-weight:50;
+}
+
+#logo{
+    width:90px; 
+    height:auto;
+}
+
+#topNavbarText{
+    font-size: 16.5px; 
+    font-family: 'Avenir'; 
+    font-weight:50;
+}
+
+#textNavbar{
+    height:355px; 
+    display: flex; 
+    justify-content: center; 
+    align-items: center;
+}
+
+#topNavbar{
+    padding-top: 35px; 
+    padding-bottom: 5px;
+}
+
+#brandText{
+    display: flex; 
+    flex-direction: column; 
+    justify-content: center; 
+    align-items: center; 
+    text-align: center;
+    margin-bottom: 20px; 
+    font-weight: 300; 
+    font-size: 18px; 
+    letter-spacing: 0.05em; 
+    font-family: 'Avenir'; 
+    color: #5c5c5c;
+    font-style: italic;
+}
+
+#smallerLogo{
+    width:90px; 
+    height:auto;
+    margin-bottom: 18px;
+}
+
